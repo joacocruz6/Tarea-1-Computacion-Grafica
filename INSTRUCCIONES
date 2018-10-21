@@ -1,0 +1,6 @@
+Instrucciones para la utilización del codigo:
+1. Ponga en la misma carpeta el archivo Planta.py y main.py
+2. Corra el main, siga con los datos pedidos del programa 
+	*Observacion: Si no sigue las instrucciones, el programa se cae y tiene que comenzar todo denuevo. El programa esta diseñado
+	con una función que previene que si algo no esta correcto, no funcione (es decir, no hace nada).
+
